@@ -23,7 +23,6 @@ Aplikasi ini telah di-*deploy* menggunakan **Vercel**.
 
 ## Screenshot Aplikasi 
 
----
 ### Tampilan Utama  
 ![Tampilan](https://github.com/dvnkrtk/uts-pemweb-123140036-dvn/blob/main/src/public/Tampilan.png)
 
