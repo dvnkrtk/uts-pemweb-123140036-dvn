@@ -18,6 +18,7 @@ Aplikasi ini telah di-*deploy* menggunakan **Vercel**.
 ## Deskripsi Proyek  
 
 **Baca Nusantara** adalah aplikasi perpustakaan digital yang dirancang untuk memudahkan pengguna dalam mencari dan membaca buku secara daring. Aplikasi ini memanfaatkan **Open Library API** yang dapat diakses gratis tanpa memerlukan API key. Fitur-fitur seperti pencarian buku, daftar bacaan pribadi (*reading list*), dan tampilan detail buku dibuat dengan antarmuka modern berbasis **React.js** dan **Tailwind CSS**, memastikan tampilan yang ringan, responsif, dan mudah digunakan.
+
 ---
 
 ## Screenshot Aplikasi 
